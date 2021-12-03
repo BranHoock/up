@@ -1,0 +1,15 @@
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\bin\Debug\net6.0\xyz.exe
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\bin\Debug\net6.0\xyz.deps.json
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\bin\Debug\net6.0\xyz.runtimeconfig.json
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\bin\Debug\net6.0\xyz.dll
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\bin\Debug\net6.0\ref\xyz.dll
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\bin\Debug\net6.0\xyz.pdb
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.csproj.AssemblyReference.cache
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.AssemblyInfoInputs.cache
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.AssemblyInfo.cs
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.csproj.CoreCompileInputs.cache
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.dll
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\ref\xyz.dll
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.pdb
+\\192.168.38.13\Users\Public\работа\WRITE\ИСП\ИСП2\Шпилевой Илья\УП\xyz\obj\Debug\net6.0\xyz.genruntimeconfig.cache
